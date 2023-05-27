@@ -1,2 +1,2 @@
 # Bean-Time
-I made this and I am proud of it
+Hello! I am so happy about this program please read what it does</br>
